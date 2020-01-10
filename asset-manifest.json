@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crawlerino/static/css/main.d1b05096.chunk.css",
+    "main.js": "/crawlerino/static/js/main.e5d77439.chunk.js",
+    "main.js.map": "/crawlerino/static/js/main.e5d77439.chunk.js.map",
+    "runtime-main.js": "/crawlerino/static/js/runtime-main.74dde007.js",
+    "runtime-main.js.map": "/crawlerino/static/js/runtime-main.74dde007.js.map",
+    "static/js/2.53730dbb.chunk.js": "/crawlerino/static/js/2.53730dbb.chunk.js",
+    "static/js/2.53730dbb.chunk.js.map": "/crawlerino/static/js/2.53730dbb.chunk.js.map",
+    "index.html": "/crawlerino/index.html",
+    "precache-manifest.a4ed02a1683a0c7d2e7f3768b93fba2f.js": "/crawlerino/precache-manifest.a4ed02a1683a0c7d2e7f3768b93fba2f.js",
+    "service-worker.js": "/crawlerino/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/crawlerino/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.53730dbb.chunk.js.LICENSE": "/crawlerino/static/js/2.53730dbb.chunk.js.LICENSE",
+    "static/media/logo.svg": "/crawlerino/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74dde007.js",
+    "static/js/2.53730dbb.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e5d77439.chunk.js"
+  ]
+}
