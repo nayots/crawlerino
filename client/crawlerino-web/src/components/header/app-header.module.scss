@@ -1,0 +1,13 @@
+.header_root {
+  .app_name {
+    text-align: left;
+    flex: 3;
+    pointer-events: none;
+  }
+  .right_side_buttons {
+    display: flex;
+    & > button {
+      flex: 1;
+    }
+  }
+}

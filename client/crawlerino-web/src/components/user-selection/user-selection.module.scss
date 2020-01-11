@@ -1,0 +1,10 @@
+.selection_root {
+  margin: 1em 10% 0 10%;
+  .root__add_new_link_section {
+    display: flex;
+    .add_new_link_section__input {
+      flex: 1;
+      margin-right: 1em;
+    }
+  }
+}
